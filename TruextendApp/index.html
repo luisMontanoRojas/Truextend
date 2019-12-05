@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Index</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    
+</head>
+<body>
+    <div>
+        <h1>Programa de Prácticas Empresariales</h1>
+    </div>  
+    <div>
+        <h2>Repositories Exercise</h2>
+    </div>
+
+    <div>
+        <ul>
+            <li><a href="newUser.html">New User</a></li>
+            <li><a href="editUser.html">Edit User</a></li>
+        </ul>
+    </div>
+    <div>
+
+        <div>
+            <p>Get All Users: </p>
+            <input id="getUsers" type="button" value="Users">
+        </div>
+        <br>
+        <div>
+            <p>Get one User: </p>
+            <form id="GetUserForm">
+                    <label for="GetUserId">User id: </label>
+                    <input type="text" name="GetUserId">
+                    <br>
+                    <input type="submit" value="GetUser">
+            </form>
+        </div>
+        <br>
+        <div>
+            <p>Delete One User: </p>
+            <form id="DeleteUserForm">
+                    <label for="GetUserToDeleteId">User id to Delete: </label>
+                    <input type="text" name="GetUserToDeleteId">
+                    <br>
+                    <input type="submit" value="Delete User">
+            </form>
+        </div>
+        <br>
+        <div class="container">
+            <div class="section">
+                <button class="btn" id="boton">Json</button>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Avatar</th>
+                            <th>GitHub</th>
+                            <th>Name</th>
+                            <th>NickName</th>
+                        </tr>
+                    </thead>
+                    <tbody id="res">
+
+                    </tbody>
+                </table>
+
+            </div>
+            
+        </div>
+
+    </div>
+
+    <div id="usersContainer"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

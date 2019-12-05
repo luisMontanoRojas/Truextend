@@ -1,0 +1,14 @@
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\bin\Debug\netcoreapp2.2\Truextend.deps.json
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\bin\Debug\netcoreapp2.2\Truextend.runtimeconfig.json
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\bin\Debug\netcoreapp2.2\Truextend.runtimeconfig.dev.json
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\bin\Debug\netcoreapp2.2\Truextend.dll
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\obj\Debug\netcoreapp2.2\Truextend.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\obj\Debug\netcoreapp2.2\Truextend.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\obj\Debug\netcoreapp2.2\Truextend.RazorAssemblyInfo.cache
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\obj\Debug\netcoreapp2.2\Truextend.RazorAssemblyInfo.cs
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\obj\Debug\netcoreapp2.2\Truextend.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\obj\Debug\netcoreapp2.2\Truextend.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\obj\Debug\netcoreapp2.2\Truextend.RazorTargetAssemblyInfo.cache
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\bin\Debug\netcoreapp2.2\Truextend.pdb
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\obj\Debug\netcoreapp2.2\Truextend.dll
+C:\Users\Luis\Desktop\Truextend\TruextendApi\Truextend\obj\Debug\netcoreapp2.2\Truextend.pdb
